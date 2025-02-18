@@ -2,7 +2,7 @@
 
 [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025.
 
-These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.9 with [Librosa](https://librosa.org/doc/main/index.html) 0.8.1 and matplotlib).
+These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.11 with [Librosa](https://librosa.org/doc/main/index.html) 0.10 and matplotlib).
 
 The links will take you to Colab pages.
 
