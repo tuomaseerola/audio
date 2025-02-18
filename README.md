@@ -6,8 +6,8 @@ These Jupyter notebooks have been developed for teaching of **Music and Science*
 
 The links will take you to Colab pages.
 
-- [Tutorial on Audio Analysis](https://github.com/tuomaseerola/audio/blob/master/audio_analysis_tutorial.ipynb)
-- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
+- [Tutorial on Audio Analysis with Librosa](https://github.com/tuomaseerola/audio/blob/master/audio_analysis_tutorial.ipynb)
+- [Structure Discovery with Librosa](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
 - [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb) (optional)
 
 ### Corpus analyses
