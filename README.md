@@ -2,20 +2,20 @@
 
 [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025.
 
-These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.9 with Librosa 0.8.1 and matplotlib).
+These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.9 with [Librosa](https://librosa.org/doc/main/index.html) 0.8.1 and matplotlib).
 
 The links will take you to Colab pages.
 
-- [Tutorial on Audio Analysis with Librosa](https://github.com/tuomaseerola/audio/blob/master/audio_analysis_tutorial.ipynb)
-- [Structure Discovery with Librosa](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
+- [Tutorial on Audio Analysis](https://github.com/tuomaseerola/audio/blob/master/audio_analysis_tutorial.ipynb)
+- [Structure Discovery](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
 - [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb) (optional)
 
 ### Corpus analyses
 
-- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
+- [Simple feature extraction](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
 - [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
-- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb)
 - [Genre classification from audio](https://github.com/tuomaseerola/audio/blob/master/audio_corpus_analysis_tutorial.ipynb)
+- [Corpus analysis of key](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb)
 
 ### Learning resources about Python, audio and music
 
