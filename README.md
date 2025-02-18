@@ -15,6 +15,7 @@ The links will take you to Colab pages.
 - [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
 - [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
 - [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb)
+- [Genre classification from audio](https://github.com/tuomaseerola/audio/blob/master/audio_corpus_analysis_tutorial.ipynb)
 
 ### Learning resources about Python, audio and music
 
