@@ -11,7 +11,7 @@ The links will take you to Colab pages.
 - [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb) (optional)
 
 ### Corpus analyses
-
+- [Music21 Corpus Analysis](https://colab.research.google.com/github/tuomaseerola/music21/blob/master/corpus_demo.ipynb)
 - [Simple feature extraction](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
 - [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
 - [Genre classification from audio](https://github.com/tuomaseerola/audio/blob/master/audio_corpus_analysis_tutorial.ipynb)
